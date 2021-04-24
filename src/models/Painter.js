@@ -1,5 +1,3 @@
-import { parse } from '@fortawesome/fontawesome-svg-core';
-import { scale } from 'chroma-js';
 import LinearQuadTree, { DIRECTIONS } from './LinearQuadTree';
 import { TRUE, FALSE, NULL } from './helpers';
 
